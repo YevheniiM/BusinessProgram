@@ -1,0 +1,42 @@
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\bin\Release\BusinessProg.exe.config
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\bin\Release\BusinessProg.exe
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\bin\Release\BusinessProg.pdb
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Information.AddClient_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Information.AddProduct_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Information.AddProvider_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Information.DeleteClient_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Information.DeleteProduct_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Information.DeleteProvider_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Information.MainInformation_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Invoices.InputInvoiceGeneral_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Invoices.InputInvoice_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Invoices.OutputInvoiceGeneral_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Invoices.OutputInvoice_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Main.Login_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Main.Main_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.Properties.Resources.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.csproj.GenerateResource.Cache
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.exe
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.pdb
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Release\BusinessProg.csprojResolveAssemblyReference.cache
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\bin\Release\BusinessProg.exe.config
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\bin\Release\BusinessProg.exe
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\bin\Release\BusinessProg.pdb
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Information.AddClient_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Information.MainInformation_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Invoices.InputInvoiceGeneral_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Invoices.InputInvoice_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Invoices.OutputInvoiceGeneral_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Invoices.OutputInvoice_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Main.Login_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Main.Main_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.Properties.Resources.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.csproj.GenerateResource.cache
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.csproj.CoreCompileInputs.cache
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.exe
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.pdb
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Views.Clients_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Information.AddProvider_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Information.LoggedInformation_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Views.Products_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Release\BusinessProg.Forms.Views.Provider_Form.resources

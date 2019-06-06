@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{95461CA7-88F5-4EAD-9259-33F4F4E21681}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BusinessProg</RootNamespace>
+    <AssemblyName>BusinessProg</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataBase\DataBaseOperations\ClientQueries.cs" />
+    <Compile Include="DataBase\DataBaseOperations\OutputInvoiceQueries.cs" />
+    <Compile Include="DataBase\DataBaseOperations\ProductQueries.cs" />
+    <Compile Include="DataBase\Helpers\CConnection.cs" />
+    <Compile Include="DataBase\Helpers\CQueryDef.cs" />
+    <Compile Include="DataBase\Helpers\CSqlReader.cs" />
+    <Compile Include="DataBase\DataBaseOperations\CheckData.cs" />
+    <Compile Include="DataBase\Helpers\DoQuery.cs" />
+    <Compile Include="DataBase\DataBaseOperations\InputInvoiceQueries.cs" />
+    <Compile Include="DataBase\Helpers\SqlQueries.cs" />
+    <Compile Include="DataBase\Objects\InputInvoice.cs" />
+    <Compile Include="DataBase\Objects\InputProduct.cs" />
+    <Compile Include="DataBase\Objects\OutputInvoice.cs" />
+    <Compile Include="DataBase\Objects\OutputProduct.cs" />
+    <Compile Include="Forms\Information\AddClient_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Information\AddClient_Form.Designer.cs">
+      <DependentUpon>AddClient_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Information\AddProvider_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Information\AddProvider_Form.Designer.cs">
+      <DependentUpon>AddProvider_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Information\LoggedInformation_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Information\LoggedInformation_Form.Designer.cs">
+      <DependentUpon>LoggedInformation_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Information\MainInformation_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Information\MainInformation_Form.Designer.cs">
+      <DependentUpon>MainInformation_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Invoices\InputInvoiceGeneral_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Invoices\InputInvoiceGeneral_Form.Designer.cs">
+      <DependentUpon>InputInvoiceGeneral_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Invoices\InputInvoice_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Invoices\InputInvoice_Form.Designer.cs">
+      <DependentUpon>InputInvoice_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Invoices\OutputInvoiceGeneral_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Invoices\OutputInvoiceGeneral_Form.Designer.cs">
+      <DependentUpon>OutputInvoiceGeneral_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Invoices\OutputInvoice_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Invoices\OutputInvoice_Form.Designer.cs">
+      <DependentUpon>OutputInvoice_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main\Login_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main\Login_Form.Designer.cs">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main\Main_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main\Main_Form.Designer.cs">
+      <DependentUpon>Main_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Views\Clients_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Views\Clients_Form.Designer.cs">
+      <DependentUpon>Clients_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Views\Products_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Views\Products_Form.Designer.cs">
+      <DependentUpon>Products_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Views\Provider_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Views\Provider_Form.Designer.cs">
+      <DependentUpon>Provider_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\CCryptography.cs" />
+    <Compile Include="Helpers\CValidate.cs" />
+    <Compile Include="Helpers\LogReader.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Information\AddClient_Form.resx">
+      <DependentUpon>AddClient_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Information\AddProvider_Form.resx">
+      <DependentUpon>AddProvider_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Information\LoggedInformation_Form.resx">
+      <DependentUpon>LoggedInformation_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Information\MainInformation_Form.resx">
+      <DependentUpon>MainInformation_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Invoices\InputInvoiceGeneral_Form.resx">
+      <DependentUpon>InputInvoiceGeneral_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Invoices\InputInvoice_Form.resx">
+      <DependentUpon>InputInvoice_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Invoices\OutputInvoiceGeneral_Form.resx">
+      <DependentUpon>OutputInvoiceGeneral_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Invoices\OutputInvoice_Form.resx">
+      <DependentUpon>OutputInvoice_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main\Login_Form.resx">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main\Main_Form.resx">
+      <DependentUpon>Main_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Views\Clients_Form.resx">
+      <DependentUpon>Clients_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Views\Products_Form.resx">
+      <DependentUpon>Products_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Views\Provider_Form.resx">
+      <DependentUpon>Provider_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

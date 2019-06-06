@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BusinessProg.DataBase.DataBaseOperations.CheckData" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAABAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase\DataBaseOperations\CheckData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.DataBase.DataBaseOperations.ClientQueries" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAABAAAAAAAAgAAAAAACAAAAAgA=</HashCode>
+      <FileName>DataBase\DataBaseOperations\ClientQueries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.DataBase.DataBaseOperations.InputInvoiceQueries" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAQyAEEAAAAAQABIAEAAAABDAIIAAAAQAACAAQ=</HashCode>
+      <FileName>DataBase\DataBaseOperations\InputInvoiceQueries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.DataBase.DataBaseOperations.OutputInvoiceQueries" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAgAAECAAAAAQABIAEIAAIBAAAABgAAAAACASQ=</HashCode>
+      <FileName>DataBase\DataBaseOperations\OutputInvoiceQueries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.DataBase.DataBaseOperations.ProductQueries" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase\DataBaseOperations\ProductQueries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.DataBase.DataBaseOperations.DoQuery" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase\Helpers\DoQuery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.DataBase.CConnection" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAABAACAAAAAA=</HashCode>
+      <FileName>DataBase\Helpers\CConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.DataBase.CSqlReader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="BusinessProg.DataBase.CSqlReader.SqlStorage" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DataBase\Helpers\CSqlReader.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAJAAAAACBBBwAAAAAAAAAAAAAAQAIBA=</HashCode>
+      <FileName>DataBase\Helpers\CSqlReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BusinessProg.DataBase.Helpers.CQueryDef" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase\Helpers\CQueryDef.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.DataBase.Helpers.SqlQueries" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQUCgAwSAwUCBAACSAUQAEIAAIBABIIAgCAKQAUAyQ=</HashCode>
+      <FileName>DataBase\Helpers\SqlQueries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.DataBase.Objects.InputInvoice" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABABAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase\Objects\InputInvoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.DataBase.Objects.InputProduct" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAEAAAABAAwAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase\Objects\InputProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.DataBase.Objects.OutputInvoice" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAEAAABAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase\Objects\OutputInvoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.DataBase.Objects.OutputProduct" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAgAAwAAQAAAAAAAABAAAAAAAAAAQ=</HashCode>
+      <FileName>DataBase\Objects\OutputProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.Forms.Information.AddClient_Form" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgQACCAIBAAAACAAAACAAAAAAABAgQAAQAABAA=</HashCode>
+      <FileName>Forms\Information\AddClient_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.Forms.Information.AddProvider_Form" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAgQACCAIBAAAACAAAACAAAAAAABAAAAAQAABAA=</HashCode>
+      <FileName>Forms\Information\AddProvider_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.Forms.Information.LoggedInformation_Form" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9wQAAAAgACAAIhAAAEGEAACSAgAIEAIAJWAAIgAEEAA=</HashCode>
+      <FileName>Forms\Information\LoggedInformation_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.Forms.Information.MainInformation_Form" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEBAAAACAAAAAAABCAAAECAgAYAAAAAEhAEACAlAA=</HashCode>
+      <FileName>Forms\Information\MainInformation_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.Forms.Invoices.InputInvoice_Form" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgACASgSAGAAIBQCAACBAAECAAAAAFCIACAwEAIKAAA=</HashCode>
+      <FileName>Forms\Invoices\InputInvoice_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.Forms.Invoices.InputInvoiceGeneral_Form" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAgAgQACAAIhAIACCAgAACAgQAAAABAIAAABAIYAA=</HashCode>
+      <FileName>Forms\Invoices\InputInvoiceGeneral_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.Forms.Invoices.OutputInvoice_Form" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NEQiQAgQFSmAIBEAgIWkACECEgBGEAAJAiAAUAAABEA=</HashCode>
+      <FileName>Forms\Invoices\OutputInvoice_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.Forms.Invoices.OutputInvoiceGeneral_Form" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAgQACAAIhAIACCAgAACAgQAAAABAIAAABAIYAA=</HashCode>
+      <FileName>Forms\Invoices\OutputInvoiceGeneral_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.Forms.Main.Login_Form" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAAAAAACAIQJAAAACAAAACAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\Main\Login_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.Forms.Main.Main_Form" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAQAAAgDAAAAAIAICACEACAggAAAAAAEAQAAAABAA=</HashCode>
+      <FileName>Forms\Main\Main_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.Forms.Views.Clients_Form" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgCACAACAAIAACAgAACAAAAAACAAAQAAAAIIAA=</HashCode>
+      <FileName>Forms\Views\Clients_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.Forms.Views.Products_Form" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAgCACAQAAAAAACAAAACAAAAAACAAAAAABAIIAA=</HashCode>
+      <FileName>Forms\Views\Products_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.Forms.Views.Provider_Form" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgiACAAAAAIAACAAAACAAAAAACAACAAAAAIIAA=</HashCode>
+      <FileName>Forms\Views\Provider_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.Helpers.CCryptography" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\CCryptography.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.Helpers.CValidate" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\CValidate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessProg.Helpers.LogReader" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\LogReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

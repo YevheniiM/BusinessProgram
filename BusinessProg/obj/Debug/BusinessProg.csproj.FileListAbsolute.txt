@@ -1,0 +1,55 @@
+c:\users\xmolo\onedrive\documents\visual studio 2015\Projects\BusinessProg\BusinessProg\bin\Debug\BusinessProg.exe.config
+C:\Users\xmolo\OneDrive\Documents\visual studio 2015\Projects\BusinessProg\BusinessProg\bin\Debug\DataBase\DataBase.mdf
+C:\Users\xmolo\OneDrive\Documents\visual studio 2015\Projects\BusinessProg\BusinessProg\bin\Debug\DataBase\DataBase_log.ldf
+C:\Users\xmolo\OneDrive\Documents\visual studio 2015\Projects\BusinessProg\BusinessProg\bin\Debug\BusinessProg.exe
+C:\Users\xmolo\OneDrive\Documents\visual studio 2015\Projects\BusinessProg\BusinessProg\bin\Debug\BusinessProg.pdb
+C:\Users\xmolo\OneDrive\Documents\visual studio 2015\Projects\BusinessProg\BusinessProg\obj\Debug\BusinessProg.csprojResolveAssemblyReference.cache
+C:\Users\xmolo\OneDrive\Documents\visual studio 2015\Projects\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Main.Login_Form.resources
+C:\Users\xmolo\OneDrive\Documents\visual studio 2015\Projects\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Properties.Resources.resources
+C:\Users\xmolo\OneDrive\Documents\visual studio 2015\Projects\BusinessProg\BusinessProg\obj\Debug\BusinessProg.csproj.GenerateResource.Cache
+C:\Users\xmolo\OneDrive\Documents\visual studio 2015\Projects\BusinessProg\BusinessProg\obj\Debug\BusinessProg.exe
+C:\Users\xmolo\OneDrive\Documents\visual studio 2015\Projects\BusinessProg\BusinessProg\obj\Debug\BusinessProg.pdb
+C:\Users\xmolo\OneDrive\Documents\Visual Studio 2015\Projects\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Main.Main_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\bin\Debug\BusinessProg.exe.config
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.exe
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.pdb
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.csprojResolveAssemblyReference.cache
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Invoices.InputInvoiceGeneral_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Invoices.InputInvoice_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Invoices.OutputInvoice_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Main.Login_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Main.Main_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Properties.Resources.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.csproj.GenerateResource.Cache
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\bin\Debug\BusinessProg.exe
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\bin\Debug\BusinessProg.pdb
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Invoices.OutputInvoiceGeneral_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Information.AddClient_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Information.AddProduct_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Information.AddProvider_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Information.DeleteClient_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Information.DeleteProduct_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Information.DeleteProvider_Form.resources
+D:\Study\Курсовой .Net\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Information.MainInformation_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\bin\Debug\BusinessProg.exe.config
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\bin\Debug\BusinessProg.exe
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\bin\Debug\BusinessProg.pdb
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Information.AddClient_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Information.MainInformation_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Invoices.InputInvoiceGeneral_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Invoices.InputInvoice_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Invoices.OutputInvoiceGeneral_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Invoices.OutputInvoice_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Main.Login_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Main.Main_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Properties.Resources.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.csproj.GenerateResource.cache
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.csproj.CoreCompileInputs.cache
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.exe
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.pdb
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Views.Clients_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.csprojAssemblyReference.cache
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Views.Products_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Views.Provider_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Information.AddProvider_Form.resources
+D:\Study\Programing\dotNet\BusinessProg\BusinessProg\obj\Debug\BusinessProg.Forms.Information.LoggedInformation_Form.resources
